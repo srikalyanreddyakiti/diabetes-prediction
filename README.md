@@ -40,6 +40,6 @@ Pima Indians Diabetes Database provided by the National Institute of Diabetes an
   • Filled missing values  
   • Scaled features using MinMaxScaler  
 
-## 📌 Author  
+## 👨‍💻 Author  
 **Akiti Sri Kalyan Reddy**  
-Project originally developed as part of the Data Warehousing and Mining coursework at ICFAI Tech, Hyderabad.
+Data Science and Artificial Intelligence  
